@@ -12,7 +12,7 @@ También contiene una sección de almacenamiento de archivos *(imégenes)* que n
 
 
 ## Producto
-
+Puedes entrar a ver el demo en este vinculo: https://incomparable-gecko-c2c7b8.netlify.app/
 
 ## Tecnología
 
@@ -32,5 +32,5 @@ El texto de la página web esta escrito en español, sin embargo las clases rela
 ## Contacto
 
 Desarrollado por: Caren Castaño en Tecnolochicas PRO Summer Camp.
-[Caren Castaño](link-de-linkedin)
+[Caren Castaño](www.linkedin.com/in/carenca)
 
