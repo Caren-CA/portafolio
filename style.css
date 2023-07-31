@@ -1,6 +1,5 @@
 #img-perfil{
-    width: 150px;
-    
+    width: 150px;  
 }
 
 #img-stack{
@@ -47,17 +46,15 @@
     background-size: cover;
 }
 #proyecto-4{
-    background-image: url('unsplash-photo-1.jpg');
-}
-#proyecto-5{
-    background-image: url('unsplash-photo-1.jpg');
-}
-#proyecto-6{
-    background-image: url('unsplash-photo-1.jpg');
+    background-image: url('imagenes/img-4.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
+
 .carousel-item{
-    height: 400px;
+    height: 330px;
 }
 
 .carousel-indicators [data-bs-target] {
@@ -76,4 +73,8 @@
     font-size: 2rem; 
     color: white;
     margin: 12px;
+}
+
+.test{
+    border-radius: 50%;
 }
